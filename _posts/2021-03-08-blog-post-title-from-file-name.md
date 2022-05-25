@@ -1,10 +1,6 @@
-## Blog Post Title From First Header
+## My PhD Project
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+Ultrasound imaging has been used for over 20 years and has an excellent safety record. It is based on nonionizing radiation, so it does not have the same risks as X-rays or other types of imaging systems that use ionizing radiation. Ultrasound imaging (sonography) uses high-frequency sound waves to view inside the body. Because ultrasound images are captured in real-time, they can also show movement of the body’s internal organs as well as blood flowing through the blood vessels.  Unlike X-ray imaging, there is no ionizing radiation exposure associated with ultrasound imaging. The bottleneck remains on the power dissipation, formfactor and resolution. The main aim of the project is to reduce the power and form factor of the ultrasound imaging system, by transforming into a handheld device and improving on the clarity of the images through novel super sparse array processing techniques. The development and implementation shall be done in low-cost and low power FPGA to support its implementation in handheld systems. The applications are in medical imaging and non-destructive testing
 
 ---
 
