@@ -1,10 +1,11 @@
 title: "My PhD Journey"
 author: "BANHIMITRA KUNDU"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "PhD @ IISC , DESE , NeuRonICS LAB" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "kundu.banhmitra@gmail.com" "banhimitrak3@iisc.ac.in"
+email: "kundu.banhmitra@gmail.com" 
+email1: "banhimitrak3@iisc.ac.in"
 
 github_username: "https://github.com/kundubanhimitra/"
 linkedin_username: "www.linkedin.com/in/banhimitrakundu"
