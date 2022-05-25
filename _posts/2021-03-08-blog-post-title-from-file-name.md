@@ -2,27 +2,4 @@
 
 Ultrasound imaging has been used for over 20 years and has an excellent safety record. It is based on nonionizing radiation, so it does not have the same risks as X-rays or other types of imaging systems that use ionizing radiation. Ultrasound imaging (sonography) uses high-frequency sound waves to view inside the body. Because ultrasound images are captured in real-time, they can also show movement of the body’s internal organs as well as blood flowing through the blood vessels.  Unlike X-ray imaging, there is no ionizing radiation exposure associated with ultrasound imaging. The bottleneck remains on the power dissipation, formfactor and resolution. The main aim of the project is to reduce the power and form factor of the ultrasound imaging system, by transforming into a handheld device and improving on the clarity of the images through novel super sparse array processing techniques. The development and implementation shall be done in low-cost and low power FPGA to support its implementation in handheld systems. The applications are in medical imaging and non-destructive testing
 
----
 
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
