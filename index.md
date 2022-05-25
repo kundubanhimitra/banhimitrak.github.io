@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi !!! I am Banhimitra .  I have an industry experience of 10 years in HAL . I have completed my BTECH in 2008 in ECE . Prior to joining IISC as a PhD Student , I was employed in  HAL on development of mission computers(Level B) and control computers(Level A)for fixed wing and rotary wing platforms on both software and hardware front . In software ,I have  hands on experience in developing of application softwares and device drivers with/without using RTOS.I have developed hardware for analog sensor conditioning  and single board computers using SOC’s.My research interest lies in neuromorphic computing and its hardware implementation.
